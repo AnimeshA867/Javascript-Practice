@@ -1,0 +1,19 @@
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background-color: yellow;
+    width:50%;
+    height:500px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+}
+
+.red{
+    box-shadow: 0 0 100px greenyellow;
+}
+
