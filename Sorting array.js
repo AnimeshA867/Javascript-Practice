@@ -10,7 +10,7 @@
 // })
 // console.log(num);
 // const compare = (a,b) => {
-//   return  ;
+//   return b-a ;
 // }
 
 // let arr=[1,4,2,3,5,4,7,8,54,234,564];
