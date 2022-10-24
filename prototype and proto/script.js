@@ -9,7 +9,7 @@ let a={
 }
 console.log(a);
  
-//This is an another object.
+//This is an another object. this is to make the concept of object better.
 let p = {
     run: ()=>{
         alert("run");
